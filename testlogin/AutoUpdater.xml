@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoUpdater>
+  <URLAddress URL="http://172.0.0.1"/>
+  <UpdateInfo>
+    <UpdateTime Date = ""/>
+    <Version Num = "1.0"/>
+  </UpdateInfo>
+  <UpdateFileList>
+    <UpdateFile FileName="testlogin"/>
+    <UpdateFile FileName="testlogin.exe"/>
+    <UpdateFile FileName="testlogin.vshost"/>
+    <UpdateFile FileName="testlogin.vshost.exe"/>
+    <UpdateFile FileName="testlogin.vshost.manifese"/>
+  </UpdateFileList>
+  <RestartApp>
+    <ReStart Allow="Yes"/>
+    <AppName Name="login.exe"/>
+  </RestartApp>
+    
+</AutoUpdater>

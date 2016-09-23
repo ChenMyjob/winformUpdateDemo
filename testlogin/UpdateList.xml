@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoUpdater>
+  <desciption>Application autoUpdate</desciption>
+  <Updater>
+    <Url>\\192.168.209.30</Url>
+    <LastUpdateTime>2016-9-1</LastUpdateTime>
+    
+    <Files>
+      <File Ver="1.0.0.0" Name="CSUpdate.exe"/>        
+    </Files>
+      
+   
+  </Updater>  
+</AutoUpdater>
+
