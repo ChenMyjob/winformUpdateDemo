@@ -1,12 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <AutoUpdater>
   <desciption>Application autoUpdate</desciption>
+  <Application applicationId="更新测试"></Application>
+  <EntryPoint>testlogin.exe</EntryPoint>
   <Updater>
-    <Url>\\192.168.209.30</Url>
+    <Url>http://120.27.117.34</Url>
     <LastUpdateTime>2016-9-1</LastUpdateTime>
     
     <Files>
-      <File Ver="1.0.0.0" Name="CSUpdate.exe"/>        
+      <File Ver="1.0.0.0" Name="testlogin.exe"/>  
+	  <File Ver="1.0.0.0" Name="test.txt"/>       
     </Files>
       
    
